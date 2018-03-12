@@ -7,3 +7,10 @@ body {
 h1 {
     color: rgb(8, 8, 8);
   }
+
+h2 {
+    color: rgb(8, 8, 8);
+  }
+img {
+    border-radius: 50%;
+}  
